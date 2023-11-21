@@ -933,6 +933,6 @@ public class ScrollingIceCoold extends AppCompatActivity {
 
 Berikut ini adalah video hasil RUN dari aplikasi yang sudah dibuat.
 
-![gif](gambar/WhatsApp%20Video%202023-11-21%20at%2020.24.24.gif)
+![gif](gambar/hasil.gif)
 
 # SELESAI, TERIMA KASIH
